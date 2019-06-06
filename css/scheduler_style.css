@@ -1,0 +1,76 @@
+body {
+  padding-top: 4rem;
+}
+
+h4 {
+  margin-top:12px;
+}
+
+.shifts {
+  width: 100%;
+}
+
+.card {
+  margin-bottom:1.5rem;
+}
+
+.card h4 {
+  font-size: 1.5em;
+}
+
+footer {
+  margin-top: 1.5rem;
+}
+
+.card img {
+  width: 100px;
+}
+
+.btn-primary, .badge-info {
+  color: #ffc300;
+  background: #dd1021;
+  border: 1px solid #ffc300;
+}
+
+.btn-primary:hover {
+  color: #ffc300;
+  background: rgba(221,16,33,.75);  
+  border: 1px solid #ffc300;
+}
+
+.alert {
+  margin-top:12px;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+.form-signin label {
+  /*margin-top:10px;*/
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
